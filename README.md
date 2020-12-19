@@ -3,7 +3,7 @@
   <p align="center">TechSee test - Search tester by name and show testers list.</p>
 </p>
 
-<details open="open">
+
   <summary><h2 style="display: inline-block">Content</h2></summary>
   <ol>
     <li>
@@ -22,7 +22,7 @@
     <li><a href="#acknowledgements">Acknowledgements</a></li>
       <li><a href="#features">Main Features</a></li>
   </ol>
-</details>
+
 
 
 
@@ -93,6 +93,6 @@ To get a local copy up and running follow these simple steps.
 - Error Input Handle
 - Get Data From API
 - Tests
-- Disable User Controlling Url
+- Disable User Controlling the Url
 - Sort Data
 
