@@ -1,0 +1,20 @@
+.label{
+  width: 90%;
+}
+
+.input{
+  width: 90%;
+  height: 2rem;
+  border: 1px solid gray;
+}
+
+input:focus{
+  outline: none !important;
+  box-shadow: 0 0 10px var(--PrimaryColor);
+}
+
+.input-error{
+  color: red;
+  font-weight: bold;
+}
+

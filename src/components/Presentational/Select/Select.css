@@ -1,0 +1,5 @@
+.select-big{
+  font-size: calc(1vw + 1vh);
+  width: 10.5rem;
+  height: 2rem;
+}

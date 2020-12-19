@@ -1,0 +1,35 @@
+.tester-error{
+  color: red;
+  font-weight: bold;
+  position: fixed;
+  top: 10px;
+  font-size: calc(1.5vw + 1.5vh);
+  text-align: center;
+  width: 100%;
+}
+
+.tester-footer{
+  position: fixed;
+  bottom: 20px;
+  width: 100%;
+  text-align: center;
+}
+
+.tester-select{
+  position: absolute;
+  right: 5%;
+  bottom: 13%;
+  font-size: calc(1vw + 1vh);
+}
+
+.tester-select > span{
+  font-weight: bold;
+}
+
+@media screen and (orientation:landscape)
+and (min-device-width: 319px) 
+and (max-device-width: 700px) {
+  .tester-select{
+    bottom: 18%;
+  }
+}

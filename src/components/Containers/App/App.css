@@ -1,0 +1,7 @@
+.App{
+  position: fixed;
+  background: linear-gradient(-35deg, var(--SecondColor) 50%, var(--PrimaryColor)  50%);
+  width: 100%;
+  height: 100%;
+}
+
